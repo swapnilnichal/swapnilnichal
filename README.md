@@ -18,8 +18,6 @@
 
 - 👯 I’m looking to collaborate on **Front End Developement**
 
-- 👨‍💻 All of my projects are available at [https://swapnilsportfoliosite.netlify.app/](https://swapnilsportfoliosite.netlify.app/)
-
 - 💬 Ask me about **react,javascript**
 
 - 📫 How to reach me **swapnilnichal18@gmail.com**
