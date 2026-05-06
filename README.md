@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Front End Developement**
+- 👯 I’m looking to collaborate on **Full Stack Developement**
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react, NextJS, NodeJs, NestJs, Databases**
 
 - 📫 How to reach me **swapnilnichal18@gmail.com**
 
