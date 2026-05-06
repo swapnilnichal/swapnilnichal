@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Next js, React js**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Front End Developement**
 
